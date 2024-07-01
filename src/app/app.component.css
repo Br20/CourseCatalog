@@ -1,0 +1,32 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+}
+  
+.catalog-logo {
+    width: 80px; /* Ancho fijo para la imagen */
+    height: 60px; /* Altura fija para la imagen */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor */
+    border-radius: 50%; /* Borde redondeado para la imagen */
+    margin-right: 15px;
+    cursor: pointer;
+}
+  
+.header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-top: 1px solid #ccc;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

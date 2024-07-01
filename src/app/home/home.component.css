@@ -1,0 +1,6 @@
+.card-container {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* tres columnas por fila*/
+    gap: 20px;
+}

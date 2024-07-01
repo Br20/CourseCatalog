@@ -1,0 +1,646 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Web Development",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Data Science",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile Development",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Cybersecurity",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Cloud Computing",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Artificial Intelligence",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "DevOps",
+      "amount_courses": 5,
+      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Web Development with HTML & CSS",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Learn the basics of web development with HTML and CSS.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript Essentials",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Master the fundamentals of JavaScript programming.",
+      "duration_time": "4 weeks",
+      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "React for Beginners",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Get started with React and build interactive web applications.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/210241/pexels-photo-210241.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Angular Advanced Techniques",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Explore advanced features and techniques in Angular.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Full Stack Development with Node.js",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Become a full stack developer using Node.js.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Introduction to Data Science",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Learn the fundamentals of data science.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Machine Learning Basics",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Understand the basics of machine learning.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Data Analysis with Python",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Analyze data effectively using Python.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "R Programming for Data Science",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Learn R programming for data science applications.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "SQL for Data Analysis",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Master SQL for data analysis and manipulation.",
+      "duration_time": "4 weeks",
+      "img": "https://images.pexels.com/photos/3861975/pexels-photo-3861975.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Introduction to Mobile Development",
+      "category": {
+        "id": 3,
+        "name": "Mobile Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      },
+      "brief_description": "Learn the basics of mobile app development.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Android Development Bootcamp",
+      "category": {
+        "id": 3,
+        "name": "Mobile Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      },
+      "brief_description": "Become an Android developer with this comprehensive bootcamp.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "iOS Development with Swift",
+      "category": {
+        "id": 3,
+        "name": "Mobile Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      },
+      "brief_description": "Learn to develop iOS applications using Swift.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Mobile App Design Principles",
+      "category": {
+        "id": 3,
+        "name": "Mobile Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      },
+      "brief_description": "Discover the key principles of mobile app design.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Cross-Platform Development with Flutter",
+      "category": {
+        "id": 3,
+        "name": "Mobile Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      },
+      "brief_description": "Build cross-platform mobile apps using Flutter.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/1282308/pexels-photo-1282308.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Introduction to Cybersecurity",
+      "category": {
+        "id": 4,
+        "name": "Cybersecurity",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      },
+      "brief_description": "Understand the basics of cybersecurity.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Ethical Hacking for Beginners",
+      "category": {
+        "id": 4,
+        "name": "Cybersecurity",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      },
+      "brief_description": "Learn the fundamentals of ethical hacking.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Network Security Essentials",
+      "category": {
+        "id": 4,
+        "name": "Cybersecurity",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      },
+      "brief_description": "Master the essentials of network security.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Introduction to Cloud Computing",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Learn the basics of cloud computing.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "AWS Certified Solutions Architect",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Prepare for the AWS Solutions Architect certification.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Microsoft Azure Fundamentals",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Understand the basics of Microsoft Azure.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/109371/pexels-photo-109371.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Google Cloud Platform Essentials",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Learn the fundamentals of Google Cloud Platform.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/872957/pexels-photo-872957.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "DevOps with Docker",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Implement DevOps practices using Docker.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Kubernetes for Developers",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Learn Kubernetes for managing containerized applications.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/3861971/pexels-photo-3861971.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "CI/CD with Jenkins",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Implement CI/CD pipelines using Jenkins.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Introduction to Artificial Intelligence",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Learn the basics of artificial intelligence.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Machine Learning with Python",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Implement machine learning algorithms using Python.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/34600/pexels-photo.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Data Visualization with Tableau",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Create interactive data visualizations using Tableau.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "Big Data Analytics with Hadoop",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Learn big data analytics using Hadoop.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/14676/pexels-photo.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Natural Language Processing",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Understand natural language processing techniques.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "Deep Learning with TensorFlow",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Implement deep learning models using TensorFlow.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "AI for Business",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Explore AI applications in business.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "DevOps Fundamentals",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Learn the basics of DevOps practices.",
+      "duration_time": "5 weeks",
+      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Introduction to DevOps",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Understand the fundamentals of DevOps.",
+      "duration_time": "4 weeks",
+      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "AI and Machine Learning",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Master AI and machine learning techniques.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 36,
+      "name": "Blockchain Basics",
+      "category": {
+        "id": 4,
+        "name": "Cybersecurity",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      },
+      "brief_description": "Learn the basics of blockchain technology.",
+      "duration_time": "4 weeks",
+      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "Advanced Python Programming",
+      "category": {
+        "id": 1,
+        "name": "Web Development",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      },
+      "brief_description": "Enhance your Python programming skills.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "Cybersecurity Best Practices",
+      "category": {
+        "id": 4,
+        "name": "Cybersecurity",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      },
+      "brief_description": "Implement best practices in cybersecurity.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "AI in Healthcare",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Explore AI applications in healthcare.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Cloud Security",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Learn how to secure cloud environments.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+    },
+    {
+      "id": 41,
+      "name": "Serverless Computing with AWS",
+      "category": {
+        "id": 5,
+        "name": "Cloud Computing",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      },
+      "brief_description": "Build serverless applications using AWS.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+    },
+    {
+      "id": 42,
+      "name": "DevOps with Ansible",
+      "category": {
+        "id": 7,
+        "name": "DevOps",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      },
+      "brief_description": "Implement DevOps practices using Ansible.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "Data Science with Python",
+      "category": {
+        "id": 2,
+        "name": "Data Science",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      },
+      "brief_description": "Master data science techniques using Python.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+    },
+    {
+      "id": 44,
+      "name": "Advanced Machine Learning",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Learn advanced machine learning techniques.",
+      "duration_time": "10 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 45,
+      "name": "Deep Learning with Keras",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Implement deep learning models using Keras.",
+      "duration_time": "8 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    },
+    {
+      "id": 46,
+      "name": "AI and Robotics",
+      "category": {
+        "id": 6,
+        "name": "Artificial Intelligence",
+        "amount_courses": 5,
+        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      },
+      "brief_description": "Explore the intersection of AI and robotics.",
+      "duration_time": "6 weeks",
+      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+    }
+  ]
+}
