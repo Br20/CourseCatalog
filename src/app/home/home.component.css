@@ -4,3 +4,18 @@
     grid-template-columns: repeat(3, 1fr); /* tres columnas por fila*/
     gap: 20px;
 }
+
+.btn-courses{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #F5680A;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-courses:hover{
+    box-shadow: 1px 1px 3px #f08944;
+}

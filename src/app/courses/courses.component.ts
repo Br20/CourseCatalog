@@ -1,15 +1,20 @@
 import { Component, inject } from '@angular/core';
 import { CourseService } from '../course.service';
 import { ICourse } from '../CatalogInterfaces';
+import { CardCourseComponent } from '../card-course/card-course.component';
 
 @Component({
   selector: 'app-courses',
   standalone: true,
-  imports: [],
+  imports: [CardCourseComponent],
   template: `
-    <h1>
-      course list works!
-    </h1>
+    <section class="course-container">
+      @for (course of courseList; track course.id){    
+        
+        <app-card-course [course]="course"/>
+
+      }
+    </section>
   `,
   styleUrl: './courses.component.css'
 })
@@ -19,6 +24,6 @@ export class CoursesComponent {
   courseFilteredList : ICourse[] = []; 
   constructor(){
     this.courseService.getAllCourses()
-    .then((courses : ICourse[])=>  console.log(courses))
+    .then((courses : ICourse[])=>  this.courseList = courses)
   }
 }

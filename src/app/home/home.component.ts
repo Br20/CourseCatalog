@@ -7,7 +7,7 @@ import { RouterModule } from '@angular/router';
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CardCategoryComponent],
+  imports: [CardCategoryComponent, RouterModule],
   template: `
     <section class="card-container">
       @for (category of categoryList; track category.id){    
@@ -16,7 +16,9 @@ import { RouterModule } from '@angular/router';
 
       }
     </section>
-
+    <section routerLink="courses">
+      <button class="btn-courses">See all courses</button>
+    </section>
   `,
   styleUrl: './home.component.css'
 })

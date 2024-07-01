@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    width: 100%;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.course-info {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.course-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.course-name {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.course-category, .course-duration {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.course-description {
+    margin: 20px 0;
+    font-size: 1em;
+    color: #666;
+}
+
+.apply-form {
+    margin-top: 20px;
+}
+
+.apply-form h2 {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.apply-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.apply-form input, .apply-form textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+.apply-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.apply-form button:hover {
+    background-color: #0056b3;
+}
