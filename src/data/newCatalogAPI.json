@@ -1,0 +1,655 @@
+{
+    "categories": [
+        {
+          "id": 1,
+          "name": "Desarrollo Web",
+          "description": "Cursos relacionados con el desarrollo web",
+          "courses": [
+            {
+              "id": 101,
+              "title": "HTML5 y CSS3",
+              "description": "Aprende los fundamentos de HTML5 y CSS3.",
+              "duration": "10 horas",
+              "level": "Principiante",
+              "instructor": {
+                "id": 201,
+                "name": "Juan Pérez",
+                "bio": "Desarrollador web con 10 años de experiencia"
+              }
+            },
+            {
+              "id": 102,
+              "title": "JavaScript Avanzado",
+              "description": "Profundiza tus conocimientos en JavaScript.",
+              "duration": "15 horas",
+              "level": "Avanzado",
+              "instructor": {
+                "id": 202,
+                "name": "Ana García",
+                "bio": "Experta en JavaScript y frameworks modernos"
+              }
+            },
+            {
+              "id": 103,
+              "title": "ReactJS desde Cero",
+              "description": "Construye aplicaciones web modernas con ReactJS.",
+              "duration": "12 horas",
+              "level": "Intermedio",
+              "instructor": {
+                "id": 203,
+                "name": "Luis Martínez",
+                "bio": "Desarrollador front-end especializado en React"
+              }
+            },
+            {
+              "id": 104,
+              "title": "Node.js y Express",
+              "description": "Desarrolla aplicaciones backend con Node.js y Express.",
+              "duration": "14 horas",
+              "level": "Intermedio",
+              "instructor": {
+                "id": 204,
+                "name": "Carlos Gómez",
+                "bio": "Desarrollador full-stack con experiencia en Node.js"
+              }
+            },
+            {
+              "id": 105,
+              "title": "Vue.js: La Guía Completa",
+              "description": "Aprende Vue.js y crea interfaces de usuario interactivas.",
+              "duration": "11 horas",
+              "level": "Intermedio",
+              "instructor": {
+                "id": 205,
+                "name": "Marta Fernández",
+                "bio": "Experta en desarrollo web con Vue.js"
+              }
+            },
+            {
+              "id": 106,
+              "title": "Desarrollo con Angular",
+              "description": "Construye aplicaciones robustas con Angular.",
+              "duration": "16 horas",
+              "level": "Avanzado",
+              "instructor": {
+                "id": 206,
+                "name": "Raúl Sánchez",
+                "bio": "Desarrollador full-stack especializado en Angular"
+              }
+            },
+            {
+              "id": 107,
+              "title": "Bootstrap 4: Diseño Responsive",
+              "description": "Crea sitios web responsivos usando Bootstrap 4.",
+              "duration": "8 horas",
+              "level": "Principiante",
+              "instructor": {
+                "id": 207,
+                "name": "Elena Ruiz",
+                "bio": "Diseñadora web con experiencia en frameworks CSS"
+              }
+            }
+          ]
+        },
+        {
+            "id": 2,
+            "name": "Data Science",
+            "description": "Cursos sobre análisis de datos y ciencia de datos",
+            "courses": [
+              {
+                "id": 102,
+                "title": "Python para Data Science",
+                "description": "Introducción al uso de Python en Data Science.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 202,
+                  "name": "Carlos López",
+                  "bio": "Data Scientist con 8 años de experiencia"
+                }
+              },
+              {
+                "id": 103,
+                "title": "Machine Learning Básico",
+                "description": "Conceptos básicos y aplicaciones de Machine Learning.",
+                "duration": "20 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 203,
+                  "name": "María Rodríguez",
+                  "bio": "Especialista en Machine Learning"
+                }
+              },
+              {
+                "id": 104,
+                "title": "Análisis de Datos con R",
+                "description": "Fundamentos del análisis de datos utilizando R.",
+                "duration": "15 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 204,
+                  "name": "Javier Morales",
+                  "bio": "Estadístico y Data Scientist con experiencia en R"
+                }
+              },
+              {
+                "id": 105,
+                "title": "Visualización de Datos con Tableau",
+                "description": "Aprende a crear visualizaciones de datos efectivas con Tableau.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 205,
+                  "name": "Ana Ruiz",
+                  "bio": "Experta en visualización de datos y Tableau"
+                }
+              },
+              {
+                "id": 106,
+                "title": "Big Data y Hadoop",
+                "description": "Introducción al manejo de grandes volúmenes de datos con Hadoop.",
+                "duration": "18 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 206,
+                  "name": "Luis González",
+                  "bio": "Especialista en Big Data y arquitecturas Hadoop"
+                }
+              },
+              {
+                "id": 107,
+                "title": "Deep Learning con TensorFlow",
+                "description": "Aprende los fundamentos del Deep Learning utilizando TensorFlow.",
+                "duration": "22 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 207,
+                  "name": "Patricia Sánchez",
+                  "bio": "Investigadora en IA y experta en Deep Learning"
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Diseño Gráfico",
+            "description": "Cursos sobre diseño gráfico y creatividad visual",
+            "courses": [
+              {
+                "id": 103,
+                "title": "Adobe Photoshop Básico",
+                "description": "Fundamentos de edición de imágenes con Photoshop.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 203,
+                  "name": "Laura Gómez",
+                  "bio": "Diseñadora gráfica con 5 años de experiencia"
+                }
+              },
+              {
+                "id": 104,
+                "title": "Illustrator para Principiantes",
+                "description": "Introducción al diseño vectorial con Adobe Illustrator.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 204,
+                  "name": "Pedro Sánchez",
+                  "bio": "Ilustrador y diseñador gráfico con 7 años de experiencia"
+                }
+              },
+              {
+                "id": 105,
+                "title": "InDesign: Diseño Editorial",
+                "description": "Aprende a crear y diseñar publicaciones con Adobe InDesign.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 205,
+                  "name": "María López",
+                  "bio": "Diseñadora editorial con 10 años de experiencia"
+                }
+              },
+              {
+                "id": 106,
+                "title": "Fundamentos del Diseño Gráfico",
+                "description": "Principios básicos del diseño gráfico y la teoría del color.",
+                "duration": "15 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 206,
+                  "name": "Ana Ruiz",
+                  "bio": "Profesora de diseño gráfico con 8 años de experiencia"
+                }
+              },
+              {
+                "id": 107,
+                "title": "Tipografía y Diseño",
+                "description": "Explora la tipografía y su uso en el diseño gráfico.",
+                "duration": "10 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 207,
+                  "name": "Javier Martín",
+                  "bio": "Tipógrafo y diseñador gráfico con 6 años de experiencia"
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Marketing Digital",
+            "description": "Cursos sobre estrategias de marketing en el entorno digital",
+            "courses": [
+              {
+                "id": 104,
+                "title": "SEO para Principiantes",
+                "description": "Optimización de motores de búsqueda desde cero.",
+                "duration": "6 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 204,
+                  "name": "Fernando Martínez",
+                  "bio": "Especialista en SEO con 7 años de experiencia"
+                }
+              },
+              {
+                "id": 105,
+                "title": "Marketing en Redes Sociales",
+                "description": "Estrategias efectivas de marketing en plataformas sociales.",
+                "duration": "8 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 205,
+                  "name": "Lucía González",
+                  "bio": "Consultora de marketing digital en redes sociales"
+                }
+              },
+              {
+                "id": 106,
+                "title": "Email Marketing Avanzado",
+                "description": "Optimización y automatización de campañas de email marketing.",
+                "duration": "10 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 206,
+                  "name": "Andrés Pérez",
+                  "bio": "Experto en email marketing y automatización de marketing"
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Fotografía",
+            "description": "Cursos sobre técnicas y estilos de fotografía",
+            "courses": [
+              {
+                "id": 105,
+                "title": "Fotografía Digital",
+                "description": "Introducción a la fotografía digital.",
+                "duration": "10 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 205,
+                  "name": "Sofía Ramírez",
+                  "bio": "Fotógrafa profesional con 10 años de experiencia"
+                }
+              },
+              {
+                "id": 106,
+                "title": "Fotografía de Retrato",
+                "description": "Técnicas y consejos para la fotografía de retrato.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 206,
+                  "name": "Carlos Martínez",
+                  "bio": "Fotógrafo especializado en retratos"
+                }
+              },
+              {
+                "id": 107,
+                "title": "Fotografía de Paisajes",
+                "description": "Captura y composición de paisajes en la fotografía.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 207,
+                  "name": "Ana Gutiérrez",
+                  "bio": "Fotógrafa de paisajes con experiencia en fotografía de naturaleza"
+                }
+              },
+              {
+                "id": 108,
+                "title": "Edición Fotográfica con Lightroom",
+                "description": "Procesamiento y edición de imágenes con Adobe Lightroom.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 208,
+                  "name": "Luisa Sánchez",
+                  "bio": "Editora fotográfica con conocimientos en Lightroom"
+                }
+              },
+              {
+                "id": 109,
+                "title": "Fotografía de Bodas",
+                "description": "Consejos y técnicas para la fotografía de bodas.",
+                "duration": "15 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 209,
+                  "name": "Jorge Rodríguez",
+                  "bio": "Fotógrafo profesional especializado en bodas"
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Cocina",
+            "description": "Cursos de cocina y gastronomía",
+            "courses": [
+              {
+                "id": 106,
+                "title": "Cocina Italiana",
+                "description": "Aprende a preparar platos tradicionales italianos.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 206,
+                  "name": "Giuseppe Rossi",
+                  "bio": "Chef italiano con 15 años de experiencia"
+                }
+              },
+              {
+                "id": 107,
+                "title": "Sushi: Técnicas y Preparación",
+                "description": "El arte de preparar sushi y sashimi.",
+                "duration": "10 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 207,
+                  "name": "Miyuki Tanaka",
+                  "bio": "Chef especializada en cocina japonesa"
+                }
+              },
+              {
+                "id": 108,
+                "title": "Cocina Mexicana Auténtica",
+                "description": "Descubre los sabores y técnicas de la cocina mexicana.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 208,
+                  "name": "Carlos Hernández",
+                  "bio": "Chef mexicano con experiencia en gastronomía regional"
+                }
+              },
+              {
+                "id": 109,
+                "title": "Repostería Creativa",
+                "description": "Elaboración de postres y técnicas de decoración creativa.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 209,
+                  "name": "Laura Pérez",
+                  "bio": "Pastelera con habilidades en repostería creativa"
+                }
+              },
+              {
+                "id": 110,
+                "title": "Cocina Vegetariana Saludable",
+                "description": "Platos vegetarianos equilibrados y nutritivos.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 210,
+                  "name": "Ana García",
+                  "bio": "Chef vegetariana especializada en cocina saludable"
+                }
+              },
+              {
+                "id": 111,
+                "title": "Platos Veganos Gourmet",
+                "description": "Elaboración de platos veganos sofisticados y deliciosos.",
+                "duration": "12 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 211,
+                  "name": "Elena Fernández",
+                  "bio": "Chef gourmet especializada en cocina vegana"
+                }
+              },
+              {
+                "id": 112,
+                "title": "Cocina Thai: Sabores Exóticos",
+                "description": "Descubre los sabores intensos y exóticos de la cocina tailandesa.",
+                "duration": "14 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 212,
+                  "name": "Somchai Wong",
+                  "bio": "Chef tailandés con experiencia en cocina tradicional"
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Idiomas",
+            "description": "Cursos para aprender diferentes idiomas",
+            "courses": [
+              {
+                "id": 107,
+                "title": "Inglés Conversacional",
+                "description": "Mejora tu fluidez y comprensión en inglés.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 207,
+                  "name": "Emily Johnson",
+                  "bio": "Profesora de inglés con 5 años de experiencia"
+                }
+              },
+              {
+                "id": 108,
+                "title": "Francés Básico",
+                "description": "Introducción al idioma francés para principiantes.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 208,
+                  "name": "Jean-Luc Martin",
+                  "bio": "Profesor de francés nativo con amplia experiencia docente"
+                }
+              },
+              {
+                "id": 109,
+                "title": "Alemán Avanzado",
+                "description": "Perfecciona tus habilidades en el idioma alemán.",
+                "duration": "15 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 209,
+                  "name": "Hans Müller",
+                  "bio": "Profesor de alemán certificado con experiencia en enseñanza avanzada"
+                }
+              },
+              {
+                "id": 110,
+                "title": "Chino Mandarín para Viajeros",
+                "description": "Frases útiles y cultura básica para viajar a China.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 210,
+                  "name": "Li Wei",
+                  "bio": "Profesora de chino mandarín con enfoque en viajes y comunicación básica"
+                }
+              },
+              {
+                "id": 111,
+                "title": "Japonés Intensivo",
+                "description": "Curso acelerado para aprender japonés rápidamente.",
+                "duration": "20 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 211,
+                  "name": "Sakura Yamamoto",
+                  "bio": "Instructora de japonés con experiencia en cursos intensivos"
+                }
+              },
+              {
+                "id": 112,
+                "title": "Portugués de Brasil",
+                "description": "Aprende portugués brasileño con enfoque en conversación.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 212,
+                  "name": "Pedro Oliveira",
+                  "bio": "Profesor de portugués con especialización en dialecto brasileño"
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Música",
+            "description": "Cursos sobre teoría musical e instrumentos",
+            "courses": [
+              {
+                "id": 108,
+                "title": "Guitarra para Principiantes",
+                "description": "Aprende los fundamentos de la guitarra.",
+                "duration": "15 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 208,
+                  "name": "Miguel Hernández",
+                  "bio": "Músico profesional y profesor de guitarra"
+                }
+              },
+              {
+                "id": 109,
+                "title": "Piano Avanzado",
+                "description": "Dominio avanzado del piano y técnica interpretativa.",
+                "duration": "20 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 209,
+                  "name": "Elena Martínez",
+                  "bio": "Pianista concertista y profesora de piano avanzado"
+                }
+              },
+              {
+                "id": 110,
+                "title": "Introducción a la Teoría Musical",
+                "description": "Conceptos básicos de teoría musical y lectura de partituras.",
+                "duration": "10 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 210,
+                  "name": "Javier Sánchez",
+                  "bio": "Teórico musical y educador en teoría y solfeo"
+                }
+              },
+              {
+                "id": 111,
+                "title": "Violín: Técnica y Repertorio",
+                "description": "Estudio avanzado de técnica y repertorio para violín.",
+                "duration": "18 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 211,
+                  "name": "Ana López",
+                  "bio": "Violinista profesional y profesora de violín"
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Fitness y Salud",
+            "description": "Cursos sobre ejercicio físico y bienestar",
+            "courses": [
+              {
+                "id": 109,
+                "title": "Yoga para Todos",
+                "description": "Práctica de yoga para todos los niveles.",
+                "duration": "10 horas",
+                "level": "Todos los niveles",
+                "instructor": {
+                  "id": 209,
+                  "name": "Mariana Torres",
+                  "bio": "Instructora de yoga certificada"
+                }
+              },
+              {
+                "id": 110,
+                "title": "Entrenamiento Funcional",
+                "description": "Ejercicios para mejorar la funcionalidad corporal y la resistencia.",
+                "duration": "12 horas",
+                "level": "Intermedio",
+                "instructor": {
+                  "id": 210,
+                  "name": "Diego Gómez",
+                  "bio": "Entrenador personal especializado en entrenamiento funcional"
+                }
+              },
+              {
+                "id": 111,
+                "title": "Pilates Avanzado",
+                "description": "Fortalecimiento muscular y flexibilidad con Pilates avanzado.",
+                "duration": "15 horas",
+                "level": "Avanzado",
+                "instructor": {
+                  "id": 211,
+                  "name": "Laura Martínez",
+                  "bio": "Instructora de Pilates con formación en técnicas avanzadas"
+                }
+              },
+              {
+                "id": 112,
+                "title": "Nutrición y Dietética",
+                "description": "Conceptos básicos de nutrición y planificación de dietas equilibradas.",
+                "duration": "8 horas",
+                "level": "Principiante",
+                "instructor": {
+                  "id": 212,
+                  "name": "Carlos Ruiz",
+                  "bio": "Nutricionista y dietista con enfoque en salud y bienestar"
+                }
+              },
+              {
+                "id": 113,
+                "title": "Zumba Fitness",
+                "description": "Ejercicio aeróbico con ritmos y movimientos de baile.",
+                "duration": "10 horas",
+                "level": "Todos los niveles",
+                "instructor": {
+                  "id": 213,
+                  "name": "Ana Rodríguez",
+                  "bio": "Instructora certificada de Zumba Fitness"
+                }
+              },
+              {
+                "id": 114,
+                "title": "Mindfulness y Meditación",
+                "description": "Técnicas de atención plena y meditación para el bienestar emocional.",
+                "duration": "12 horas",
+                "level": "Todos los niveles",
+                "instructor": {
+                  "id": 214,
+                  "name": "Martín Pérez",
+                  "bio": "Instructor de mindfulness y meditación"
+                }
+              }
+            ]
+          }          
+      ]
+}
