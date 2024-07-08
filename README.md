@@ -9,7 +9,7 @@ To get started, make sure you have Node.js installed on your machine. Then, foll
 1. Clone this repository to your local machine:
 
    ```bash
-   https://github.com/Br20/CourseCatalog.git
+   git clone https://github.com/Br20/CourseCatalog.git
 
 2. Clone this repository to your local machine:
 
