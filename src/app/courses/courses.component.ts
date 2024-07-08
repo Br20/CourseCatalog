@@ -9,6 +9,7 @@ import { CardCourseComponent } from '../card-course/card-course.component';
   imports: [CardCourseComponent],
   template: `
     <section class="course-container">
+      <p class="courses-text">These are all the courses in our catalog</p>
       @for (course of courseList; track course.id){    
         
         <app-card-course [course]="course"/>

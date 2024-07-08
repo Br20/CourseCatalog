@@ -1,5 +1,5 @@
 .card-container {
-    width: 80%;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* tres columnas por fila*/
     gap: 20px;
@@ -18,4 +18,15 @@
 
 .btn-courses:hover{
     box-shadow: 1px 1px 3px #f08944;
+}
+
+.section-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-btn button{
+    margin: 20px;
 }

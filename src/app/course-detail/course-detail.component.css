@@ -14,9 +14,14 @@
     margin-bottom: 30px;
 }
 
+.course-info p{
+    text-align: left;
+}
+
 .course-img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
+    max-height: 700px;
     border-radius: 8px;
 }
 
@@ -37,7 +42,7 @@
 }
 
 .apply-form {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .apply-form h2 {
@@ -54,10 +59,21 @@
 .apply-form input, .apply-form textarea {
     width: calc(100% - 22px);
     padding: 10px;
-    margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.error{
+    color: red;
+    margin: 0 0 20px 0;
+}
+
+
+.apply-form textarea{
+    resize: none;
+    height: 100px;
 }
 
 .apply-form button {

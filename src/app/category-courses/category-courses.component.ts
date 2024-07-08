@@ -10,6 +10,7 @@ import { CardCourseComponent } from '../card-course/card-course.component';
   imports: [CardCourseComponent],
   template: `
     <section class="course-container">
+      <p class="courses-category-text">These are all the courses for category "{{courseList[0].category.name}}"</p>
       @for (course of courseList; track course.id){    
         
         <app-card-course [course]="course"/>

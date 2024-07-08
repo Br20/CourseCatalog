@@ -4,3 +4,7 @@
 #F5680A primario
 #0A97F5 secundario
 */
+
+app-category-courses, app-courses{
+    width: 50%;
+}

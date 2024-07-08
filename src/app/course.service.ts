@@ -27,6 +27,7 @@ export class CourseService {
 
   async getCourseById(id : number): Promise<ICourse>{
     let singleCourse : ICourse;
+    console.log(id);
     fetch(this.url+'courses/'+id.toString())
     .then((res) => res.json())
     .then((jsonData) => singleCourse = jsonData)

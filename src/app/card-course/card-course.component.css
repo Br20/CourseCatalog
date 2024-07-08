@@ -7,7 +7,8 @@
     margin-bottom: 20px;
     color: #0A97F5;
     box-shadow: 1px 2px 4px #F5680A;
-    width: 70%;
+    width: 100%;
+    cursor: pointer;
 }
 
 .course-card:hover{
@@ -19,6 +20,8 @@
     width: 200px; /* Ancho fijo para la imagen */
     height: 150px; /* Altura fija para la imagen */
     object-fit: cover; /* Ajusta la imagen para cubrir el contenedor */
+    margin: 5px;
+    border-radius: 5px;
 }
   
 .course-details {

@@ -12,7 +12,7 @@ import { RouterLink, RouterModule } from '@angular/router';
       <div class="course-details">
         <h3 class="course-title">{{course.name}}</h3>
         <p class="course-category">{{ course.category.name }}</p>
-        <p class="course-duration">Duration: {{course.duration_time}} hours</p>
+        <p class="course-duration">Duration: {{course.duration_time}}</p>
       </div>
     </div>
   `,

@@ -3,44 +3,62 @@
     {
       "id": 1,
       "name": "Web Development",
-      "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      "amount_courses": 6,
+      "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
     },
     {
       "id": 2,
       "name": "Data Science",
-      "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      "amount_courses": 8,
+      "img": "https://unitefa.conicet.unc.edu.ar/wp-content/blogs.dir/50/files/sites/50/2023/09/data_science-768x461.jpg"
     },
     {
       "id": 3,
-      "name": "Mobile Development",
-      "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      "name": "Business and Entrepreneurship",
+      "amount_courses": 3,
+      "img": "https://media.licdn.com/dms/image/C4D12AQGBFBuIyroaEg/article-cover_image-shrink_600_2000/0/1651930464918?e=2147483647&v=beta&t=UuXXY77uAjg8f4pU02qKC9LmzJ56FU6a270tu49HQRo"
     },
     {
       "id": 4,
-      "name": "Cybersecurity",
+      "name": "Photography",
       "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
     },
     {
       "id": 5,
       "name": "Cloud Computing",
-      "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      "amount_courses": 6,
+      "img": "https://pandorafms.com/blog/wp-content/uploads/2023/11/DALL%C2%B7E-2023-11-27-13.56.23-A-minimalistic-and-modern-illustration-for-a-blog-post-about-Cloud-Computing.-The-design-includes-simple-symbols-representing-cloud-storage-data-tran.png"
     },
     {
       "id": 6,
       "name": "Artificial Intelligence",
-      "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "amount_courses": 10,
+      "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
     },
     {
       "id": 7,
+      "name": "Language Learning",
+      "amount_courses": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk_bEYw6-7N1LaM84muKJzA8BFsTC7sKlFg&s"
+    },
+    {
+      "id": 8,
       "name": "DevOps",
+      "amount_courses": 6,
+      "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
+    },
+    {
+      "id": 9,
+      "name": "Mobile Development",
       "amount_courses": 5,
-      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cybersecurity",
+      "amount_courses": 5,
+      "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
     }
   ],
   "courses": [
@@ -51,11 +69,11 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
-      "brief_description": "Learn the basics of web development with HTML and CSS.",
+      "brief_description": "Learn the basics of web development with HTML and CSS. This course covers everything you need to start building beautiful, responsive websites, including fundamental HTML structure and CSS styling techniques.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      "img": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg"
     },
     {
       "id": 2,
@@ -64,11 +82,11 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
-      "brief_description": "Master the fundamentals of JavaScript programming.",
+      "brief_description": "Master the fundamentals of JavaScript programming. This course will teach you how to make your websites interactive and dynamic, covering essential concepts such as variables, functions, and event handling.",
       "duration_time": "4 weeks",
-      "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"
+      "img": "https://img-c.udemycdn.com/course/750x422/1468694_d595_2.jpg"
     },
     {
       "id": 3,
@@ -77,11 +95,11 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
-      "brief_description": "Get started with React and build interactive web applications.",
+      "brief_description": "Get started with React and build interactive web applications. This course will guide you through the basics of React, from setting up your environment to creating components and managing state.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/210241/pexels-photo-210241.jpeg"
+      "img": "https://img-c.udemycdn.com/course/750x422/4706368_4451.jpg"
     },
     {
       "id": 4,
@@ -90,11 +108,11 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
-      "brief_description": "Explore advanced features and techniques in Angular.",
+      "brief_description": "Explore advanced features and techniques in Angular. This course is designed for those who already have basic knowledge of Angular and want to dive deeper into more complex topics such as services, routing, and advanced component design.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg"
+      "img": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74bp6j90u756grzm4s5v.png"
     },
     {
       "id": 5,
@@ -103,11 +121,11 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
-      "brief_description": "Become a full stack developer using Node.js.",
+      "brief_description": "Become a full stack developer using Node.js. This comprehensive course will teach you how to build scalable server-side applications and APIs, as well as integrating them with frontend technologies.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRWLu3LC-9X0kd_xJtWZjhCp-l0dVLyJVXA&s"
     },
     {
       "id": 6,
@@ -118,7 +136,7 @@
         "amount_courses": 5,
         "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
       },
-      "brief_description": "Learn the fundamentals of data science.",
+      "brief_description": "Learn the fundamentals of data science. This course covers essential topics such as data analysis, statistical methods, and the basics of machine learning, providing a solid foundation for further study in the field.",
       "duration_time": "6 weeks",
       "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
     },
@@ -131,7 +149,7 @@
         "amount_courses": 5,
         "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
       },
-      "brief_description": "Understand the basics of machine learning.",
+      "brief_description": "Understand the basics of machine learning. This course introduces key concepts and techniques in machine learning, including supervised and unsupervised learning, as well as practical applications and tools.",
       "duration_time": "8 weeks",
       "img": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
     },
@@ -144,9 +162,9 @@
         "amount_courses": 5,
         "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
       },
-      "brief_description": "Analyze data effectively using Python.",
+      "brief_description": "Analyze data effectively using Python. This course will teach you how to use Python libraries such as Pandas and NumPy for data manipulation and analysis, as well as visualization techniques to communicate your findings.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg"
+      "img": "https://i.ytimg.com/vi/GPVsHOlRBBI/maxresdefault.jpg"
     },
     {
       "id": 9,
@@ -157,9 +175,61 @@
         "amount_courses": 5,
         "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
       },
-      "brief_description": "Learn R programming for data science applications.",
+      "brief_description": "Learn R programming for data science applications. This course covers the fundamentals of R, including data manipulation, statistical analysis, and visualization, making it a valuable tool for any aspiring data scientist.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg"
+      "img": "https://i0.wp.com/vedangvats.com/wp-content/uploads/2020/04/Rprogramming.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Spanish for Foreigners",
+      "category": {
+        "id": 7,
+        "name": "Language Learning",
+        "amount_courses": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk_bEYw6-7N1LaM84muKJzA8BFsTC7sKlFg&s"
+      },
+      "brief_description": "Course designed for non-native speakers who want to learn Spanish. Covers the basics of the language, including grammar, vocabulary, and conversation practice.",
+      "duration_time": "25 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDv3kJEHHPsD3S9r3RtaLZekv9EE-bKgCCQ&s"
+    },
+    {
+      "id": 120,
+      "name": "Intermediate French",
+      "category": {
+        "id": 7,
+        "name": "Language Learning",
+        "amount_courses": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk_bEYw6-7N1LaM84muKJzA8BFsTC7sKlFg&s"
+      },
+      "brief_description": "Improve your French skills with this intermediate course. Learn advanced grammar, vocabulary, and communication skills for everyday and professional situations.",
+      "duration_time": "18 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYIgDOofs_M010ALbtWZKIdd_atVEExjSJg&s"
+    },
+    {
+      "id": 121,
+      "name": "Advanced German",
+      "category": {
+        "id": 7,
+        "name": "Language Learning",
+        "amount_courses": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk_bEYw6-7N1LaM84muKJzA8BFsTC7sKlFg&s"
+      },
+      "brief_description": "Advanced German course for students with prior knowledge. Covers complex grammar, specialized vocabulary, and advanced conversation practice.",
+      "duration_time": "22 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThGqzQh5YvL8KsJL7u78ApLf_qoxh5ZzO0Q&s"
+    },
+    {
+      "id": 122,
+      "name": "Japanese for Beginners",
+      "category": {
+        "id": 7,
+        "name": "Language Learning",
+        "amount_courses": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk_bEYw6-7N1LaM84muKJzA8BFsTC7sKlFg&s"
+      },
+      "brief_description": "Introduction to the Japanese language for beginners. Learn to read and write in hiragana and katakana, and acquire basic conversation and grammar skills.",
+      "duration_time": "15 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRyFkRMBYHDZQYruxS_lj1rL1DCstV5P6cQ&s"
     },
     {
       "id": 10,
@@ -172,111 +242,150 @@
       },
       "brief_description": "Master SQL for data analysis and manipulation.",
       "duration_time": "4 weeks",
-      "img": "https://images.pexels.com/photos/3861975/pexels-photo-3861975.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGJs23xBQkceobak8p8FXi3kBug8JFx_kHg&s"
+    },
+    {
+      "id": 124,
+      "name": "Project Management",
+      "category": {
+        "id": 3,
+        "name": "Business and Entrepreneurship",
+        "amount_courses": 3,
+        "img": "https://media.licdn.com/dms/image/C4D12AQGBFBuIyroaEg/article-cover_image-shrink_600_2000/0/1651930464918?e=2147483647&v=beta&t=UuXXY77uAjg8f4pU02qKC9LmzJ56FU6a270tu49HQRo"
+      },
+      "brief_description": "Project management course for professionals looking to improve their organizational and leadership skills. Learn techniques and tools to plan, execute, and monitor projects effectively.",
+      "duration_time": "12 hours",
+      "img": "https://www.herzing.edu/sites/default/files/styles/fp_960_480/public/2020-09/project-management-skills.jpg.webp?itok=rN-QQPq6"
+    },
+    {
+      "id": 125,
+      "name": "Digital Marketing for SMEs",
+      "category": {
+        "id": 3,
+        "name": "Business and Entrepreneurship",
+        "amount_courses": 3,
+        "img": "https://media.licdn.com/dms/image/C4D12AQGBFBuIyroaEg/article-cover_image-shrink_600_2000/0/1651930464918?e=2147483647&v=beta&t=UuXXY77uAjg8f4pU02qKC9LmzJ56FU6a270tu49HQRo"
+      },
+      "brief_description": "Digital marketing strategies specific to small and medium-sized businesses. Learn to use digital tools to increase your business's visibility and attract more customers.",
+      "duration_time": "8 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYvU4PNGOoenmSqjr6owFFPPGuoq1mlUX4A&s"
+    },
+    {
+      "id": 126,
+      "name": "Finance for Entrepreneurs",
+      "category": {
+        "id": 3,
+        "name": "Business and Entrepreneurship",
+        "amount_courses": 3,
+        "img": "https://media.licdn.com/dms/image/C4D12AQGBFBuIyroaEg/article-cover_image-shrink_600_2000/0/1651930464918?e=2147483647&v=beta&t=UuXXY77uAjg8f4pU02qKC9LmzJ56FU6a270tu49HQRo"
+      },
+      "brief_description": "Essential financial concepts for entrepreneurs. Learn to manage your business finances, including budgeting, cost analysis, and financial planning.",
+      "duration_time": "9 hours",
+      "img": "https://miro.medium.com/v2/resize:fit:800/0*F8OxXTRjnZg-1tS0.jpg"
     },
     {
       "id": 11,
       "name": "Introduction to Mobile Development",
       "category": {
-        "id": 3,
+        "id": 9,
         "name": "Mobile Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+        "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
       },
       "brief_description": "Learn the basics of mobile app development.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+      "img": "https://d2ms8rpfqc4h24.cloudfront.net/mobile_application_development_ad3f711b7d.jpg"
     },
     {
       "id": 12,
       "name": "Android Development Bootcamp",
       "category": {
-        "id": 3,
+        "id": 9,
         "name": "Mobile Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+        "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
       },
       "brief_description": "Become an Android developer with this comprehensive bootcamp.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlX0Vt5IrMWGX2k1p9vPaPUmrJO_Z4mzJv3Q&s"
     },
     {
       "id": 13,
       "name": "iOS Development with Swift",
       "category": {
-        "id": 3,
+        "id": 9,
         "name": "Mobile Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+        "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
       },
       "brief_description": "Learn to develop iOS applications using Swift.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnI26jFzZiz-EQCX3qgMUWwxf5PMtdcC3qTA&s"
     },
     {
       "id": 14,
       "name": "Mobile App Design Principles",
       "category": {
-        "id": 3,
+        "id": 9,
         "name": "Mobile Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+        "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
       },
       "brief_description": "Discover the key principles of mobile app design.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      "img": "https://cdn.dribbble.com/userupload/14087462/file/original-5aca91d2448c774fe8273ca71b3cd68c.png?resize=400x0"
     },
     {
       "id": 15,
       "name": "Cross-Platform Development with Flutter",
       "category": {
-        "id": 3,
+        "id": 9,
         "name": "Mobile Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/718930/pexels-photo-718930.jpeg"
+        "img": "https://t4.ftcdn.net/jpg/04/78/08/31/360_F_478083183_6CQZKaiML4lyTBKOx450KCRkU0aExkVH.jpg"
       },
       "brief_description": "Build cross-platform mobile apps using Flutter.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/1282308/pexels-photo-1282308.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0B8Lb-gfOc9266HMKuhXEKrZ-NCegf07uw&s"
     },
     {
       "id": 16,
       "name": "Introduction to Cybersecurity",
       "category": {
-        "id": 4,
+        "id": 10,
         "name": "Cybersecurity",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+        "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
       },
       "brief_description": "Understand the basics of cybersecurity.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      "img": "https://miro.medium.com/v2/resize:fit:1080/0*BRwAoKDQMpVtGYMU.jpeg"
     },
     {
       "id": 17,
       "name": "Ethical Hacking for Beginners",
       "category": {
-        "id": 4,
+        "id": 10,
         "name": "Cybersecurity",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+        "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
       },
       "brief_description": "Learn the fundamentals of ethical hacking.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/1181672/pexels-photo-1181672.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJseXO8G4DXuA9zJZTt9QfnmVqV9TUkBKEWg&s"
     },
     {
       "id": 18,
       "name": "Network Security Essentials",
       "category": {
-        "id": 4,
+        "id": 10,
         "name": "Cybersecurity",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+        "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
       },
       "brief_description": "Master the essentials of network security.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtT3kWoq7kDESnM9RcOaVJ4Dv0gEn9aZk9Q&s"
     },
     {
       "id": 19,
@@ -289,7 +398,7 @@
       },
       "brief_description": "Learn the basics of cloud computing.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ESCV8IKnh-5WU-w5dJjUvS5jzu8_aGxVnA&s"
     },
     {
       "id": 20,
@@ -302,7 +411,7 @@
       },
       "brief_description": "Prepare for the AWS Solutions Architect certification.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg"
+      "img": "https://img-c.udemycdn.com/course/750x422/4842874_ad27_3.jpg"
     },
     {
       "id": 21,
@@ -315,7 +424,7 @@
       },
       "brief_description": "Understand the basics of Microsoft Azure.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/109371/pexels-photo-109371.jpeg"
+      "img": "https://www.cursosdev.com/ezoimgfmt/img-c.udemycdn.com/course/480x270/5005684_c1e2.jpg?ezimgfmt=rs:384x216/rscb1/ngcb1/notWebP"
     },
     {
       "id": 22,
@@ -328,46 +437,46 @@
       },
       "brief_description": "Learn the fundamentals of Google Cloud Platform.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/872957/pexels-photo-872957.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_T_2O2LnZCJS9_nMPro7PtOOC5K09eoPFwQ&s"
     },
     {
       "id": 23,
       "name": "DevOps with Docker",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Implement DevOps practices using Docker.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg"
+      "img": "https://media.licdn.com/dms/image/D4E10AQHGegSy1zRy7g/image-shrink_800/0/1709663702492?e=2147483647&v=beta&t=5aZMjHnTqwOY7G2EKQ9k-3A97sALR_W-sXXWYil-TY0"
     },
     {
       "id": 24,
       "name": "Kubernetes for Developers",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Learn Kubernetes for managing containerized applications.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/3861971/pexels-photo-3861971.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSZwjqfQWkr26y4yIWD1J_DxO_YMEWluY1w&s"
     },
     {
       "id": 25,
       "name": "CI/CD with Jenkins",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Implement CI/CD pipelines using Jenkins.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqWXX_yBlB6liNUt5XaEL_fOQxLctJOtenvHvmVU-ET38g3pcZFwzv8973LFgKMjsEBlI&usqp=CAU"
     },
     {
       "id": 26,
@@ -376,11 +485,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Learn the basics of artificial intelligence.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://miro.medium.com/v2/resize:fit:900/1*57YDg0EsnSBYsTnwYPkSDg.jpeg"
     },
     {
       "id": 27,
@@ -389,11 +498,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Implement machine learning algorithms using Python.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/34600/pexels-photo.jpg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcH6mPPldIxPTYzb_Tiy73OorAYNbSklc8w&s"
     },
     {
       "id": 28,
@@ -419,7 +528,7 @@
       },
       "brief_description": "Learn big data analytics using Hadoop.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/14676/pexels-photo.jpg"
+      "img": "https://i.ytimg.com/vi/nkUhfyYNCwQ/maxresdefault.jpg"
     },
     {
       "id": 30,
@@ -428,11 +537,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Understand natural language processing techniques.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymrQJYCDhX4Z2FCR4woTgZh9fPU5EbH9g1Q&s"
     },
     {
       "id": 31,
@@ -441,11 +550,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Implement deep learning models using TensorFlow.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZtbOhsO2wQ0lFsSJejJC1wC-7j7lq8kmgw&s"
     },
     {
       "id": 32,
@@ -454,37 +563,37 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Explore AI applications in business.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SU7NFDWLrsCodHLHPvluuSrNHDMRi_er_Q&s"
     },
     {
       "id": 33,
       "name": "DevOps Fundamentals",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Learn the basics of DevOps practices.",
       "duration_time": "5 weeks",
-      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
     },
     {
       "id": 34,
       "name": "Introduction to DevOps",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Understand the fundamentals of DevOps.",
       "duration_time": "4 weeks",
-      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
     },
     {
       "id": 35,
@@ -493,24 +602,24 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Master AI and machine learning techniques.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6Q9dipKhmiEP0F7cOOMdBB4JOJsMGQjsTw&s"
     },
     {
       "id": 36,
       "name": "Blockchain Basics",
       "category": {
-        "id": 4,
+        "id": 10,
         "name": "Cybersecurity",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+        "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
       },
       "brief_description": "Learn the basics of blockchain technology.",
       "duration_time": "4 weeks",
-      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      "img": "https://i.blogs.es/b5ce90/blockchain2/450_1000.jpg"
     },
     {
       "id": 37,
@@ -519,24 +628,24 @@
         "id": 1,
         "name": "Web Development",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+        "img": "https://contentstatic.techgig.com/photo/80158672/top-4-web-development-trends-in-2021.jpg?119426"
       },
       "brief_description": "Enhance your Python programming skills.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/547330/pexels-photo-547330.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31pdrRTvNxcMWvT7ngLNAtbHqhdtgSWeE5A&s"
     },
     {
       "id": 38,
       "name": "Cybersecurity Best Practices",
       "category": {
-        "id": 4,
+        "id": 10,
         "name": "Cybersecurity",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+        "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
       },
       "brief_description": "Implement best practices in cybersecurity.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg"
+      "img": "https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg"
     },
     {
       "id": 39,
@@ -545,11 +654,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Explore AI applications in healthcare.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://rejolut.com/wp-content/uploads/2023/08/AI-in-Healthcare.jpg"
     },
     {
       "id": 40,
@@ -575,20 +684,20 @@
       },
       "brief_description": "Build serverless applications using AWS.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUI4jNy71JG69mf3QRSJZ-RH7Pi__z--Rpg&s"
     },
     {
       "id": 42,
       "name": "DevOps with Ansible",
       "category": {
-        "id": 7,
+        "id": 8,
         "name": "DevOps",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+        "img": "https://media.licdn.com/dms/image/D4E12AQEJ_ifnH6QWug/article-cover_image-shrink_600_2000/0/1676420761625?e=2147483647&v=beta&t=8GlMs2QrgAEb75DwY5Xgx4IIXJM90Rj2iWJMi3poNBs"
       },
       "brief_description": "Implement DevOps practices using Ansible.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/3861974/pexels-photo-3861974.jpeg"
+      "img": "https://www.openlogic.com/sites/default/files/image/2020-02/image-blog-ol--why-use-ansible-devops%20%281%29.jpg"
     },
     {
       "id": 43,
@@ -601,7 +710,7 @@
       },
       "brief_description": "Master data science techniques using Python.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJH9M1tYvFAalP2k00Wh-OU_aHN6Kz8e31Ww&s"
     },
     {
       "id": 44,
@@ -610,11 +719,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Learn advanced machine learning techniques.",
       "duration_time": "10 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-KHSqTu4Yf42u0FPBQvR2pRO80CC_jQuvA&s"
     },
     {
       "id": 45,
@@ -623,11 +732,11 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Implement deep learning models using Keras.",
       "duration_time": "8 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vFqtYBe_DcJFQYPgjce-NXqOleKa0sB_7Q&s"
     },
     {
       "id": 46,
@@ -636,11 +745,77 @@
         "id": 6,
         "name": "Artificial Intelligence",
         "amount_courses": 5,
-        "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+        "img": "https://img.freepik.com/free-photo/ai-technology-microchip-background-digital-transformation-concept_53876-124669.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1720310400&semt=ais_user"
       },
       "brief_description": "Explore the intersection of AI and robotics.",
       "duration_time": "6 weeks",
-      "img": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDbOcLUY8PFGBvHhEiDsZT4gedIiN7wZu3g&s"
+    },
+    {
+      "id": 108,
+      "name": "Basic Digital Photography",
+      "category": {
+        "id": 4,
+        "name": "Photography",
+        "amount_courses": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
+      },
+      "brief_description": "Introduction to the fundamentals of digital photography. Learn how to handle your camera, understand exposure, and compose attractive images.",
+      "duration_time": "8 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoiLYQml8f-MxowO4APdy5E2Hb87YSodQ3g&s"
+    },
+    {
+      "id": 109,
+      "name": "Photo Editing with Lightroom",
+      "category": {
+        "id": 4,
+        "name": "Photography",
+        "amount_courses": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
+      },
+      "brief_description": "Master Adobe Lightroom to enhance and edit your photos. Learn to organize your workflow and apply adjustments for professional images.",
+      "duration_time": "10 hours",
+      "img": "https://www.mundodeportivo.com/urbantecno/hero/2024/05/si-quieres-saber-como-descargar-e-instalar-presets-de-lightroom-aqui-te-lo-contaremos-todo.jpg?width=768&aspect_ratio=16:9&format=nowebp"
+    },
+    {
+      "id": 110,
+      "name": "Portrait Photography",
+      "category": {
+        "id": 4,
+        "name": "Photography",
+        "amount_courses": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
+      },
+      "brief_description": "Advanced techniques for portrait photography. Learn to work with light, direct your models, and capture the essence of people in your photos.",
+      "duration_time": "12 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeY6L0_wj3f8UwVQ_vJL4SELLICgHKq3l6jg&s"
+    },
+    {
+      "id": 111,
+      "name": "Landscape Photography",
+      "category": {
+        "id": 4,
+        "name": "Photography",
+        "amount_courses": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
+      },
+      "brief_description": "Discover how to capture the beauty of natural landscapes. This course will teach you composition techniques, filter use, and specific editing for landscape photography.",
+      "duration_time": "9 hours",
+      "img": "https://cdn01.alison-static.net/courses/3982/alison_courseware_intro_3982.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Night Photography",
+      "category": {
+        "id": 4,
+        "name": "Photography",
+        "amount_courses": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYXXb9i9n768sHkALYF8iQxH0xyUYMEJXfw&s"
+      },
+      "brief_description": "Learn to photograph night scenes, including astrophotography and urban photography. This course covers techniques for long exposure and working with low light.",
+      "duration_time": "11 hours",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEkgp9WYx0z18SB3TaB97mHzbkjlB-LdQHJA8_nRMQcFcIDLXJ04oRFuh5PGBqtmsXc0&usqp=CAU"
     }
+    
   ]
 }

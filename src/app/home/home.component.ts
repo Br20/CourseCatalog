@@ -16,7 +16,7 @@ import { RouterModule } from '@angular/router';
 
       }
     </section>
-    <section routerLink="courses">
+    <section routerLink="courses" class="section-btn">
       <button class="btn-courses">See all courses</button>
     </section>
   `,
